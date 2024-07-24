@@ -1,0 +1,57 @@
+
+{
+
+    "movies":[
+        {
+            "id":"1",
+            "image":"https://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Stranger_Things_season_1.jpg/220px-Stranger_Things_season_1.jpg",
+            "name":"STRANGER THINGS SEASON 1 (2016)",
+            "episode":"Total Episode - 8",
+            "overview":"Set in the fictional town of Hawkins, Indiana in 1983, the story follows a group of friends, a worried mother, a police chief and tense siblings after a creature from another dimension kidnaps a boy named Will Byers, all while an escapee child test subject attempts to evade her former captors.",
+            "rating":"9.2/10",
+            "url1":"https://www.youtube.com/embed/mnd7sFt5c3A?si=Fv3jXjZsEAM2Mo6t?",
+            "url2":"https://www.youtube.com/embed/mnd7sFt5c3A?si=Fv3jXjZsEAM2Mo6t?"
+         
+        },
+        {
+            "id":"2",
+            "image":"https://m.media-amazon.com/images/I/51Aubt--CxL._UXNaN_FMjpg_QL85_.jpg",
+            "name":"WEDNESDAY (2022)",
+            "episode":"Total Episode - 8",
+            "overview":"Season 1 – Wednesday. Fresh score. Fresh audience score. While attending Nevermore Academy, Wednesday Addams attempts to master her emerging psychic ability, thwart a killing spree and solve the mystery that embroiled her parents 25 years ago.",
+            "rating":"8.1/10",
+            "url1":"https://www.youtube.com/embed/Di310WS8zLk?si=3nHFgFasL3iwrzDJ ",
+            "url2":"https://www.youtube.com/embed/hnknAJSdpkM?si=zvuqMA0yd7VvyEpx"
+        },
+        {
+            "id":"3",
+            "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqH4WUnXqiT542787eZKCgSNA2D7JK5xsdgvHA97bJEA&s",
+            "name":"MONEY HEIST Season1 (2017)",
+            "episode":"Total Episode - 9",
+            "overview":"A criminal mastermind who goes by 'The Professor' has a plan to pull off the biggest heist in recorded history -- to print billions of euros in the Royal Mint of Spain. ",
+            "rating":"10/10",
+            "url1":"https://www.youtube.com/embed/_InqQJRqGW4?si=6FFEvYeQkQLQBJNr",
+            "url2":"https://www.youtube.com/embed/46cXFUzR9XM?si=E00hN-Ak6ZXw0R8N"
+        },
+        {
+            "id":"4",
+            "image":"https://m.media-amazon.com/images/M/MV5BZDA0OGQxNTItMDZkMC00N2UyLTg3MzMtYTJmNjg3Nzk5MzRiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_FMjpg_UX1000_.jpg",
+            "name":"AVATAR",
+            "overview":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries",
+            "rating":"7.9/10",
+            "url1":"https://www.youtube.com/embed/a6VVrAZUnsc?si=StO_LxyuykACmWDW",
+            "url2":"https://www.youtube.com/embed/X47sEzHdPI0?si=ayGOK8TRCNv246SE"
+        },
+        {
+            "id":"5",
+            "image":"https://wallpapers.com/images/hd/allu-arjun-1200-x-1860-background-qw4eajyiswy4h6u7.jpg",
+            "name":"PUSHPA 2",
+            "overview":"A labourer named Pushpa makes enemies as he rises in the world of red sandalwood smuggling. However, violence erupts when the police attempt to bring down his illegal business.",
+            "rating":"7.6/10",
+            "url1":"https://www.youtube.com/embed/aj0TXpTgbUM?si=-b6XocN13iCKrW0y",
+            "url2":"https://www.youtube.com/embed/-XT2ZEuoSPQ?si=UMJ5vGnaBb9_lDOx"
+        }
+
+
+    ]
+}
